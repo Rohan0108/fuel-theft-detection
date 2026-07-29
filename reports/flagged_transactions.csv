@@ -1,0 +1,49 @@
+txn_id,date,vehicle_id,driver_id,asset_class,gallons,total_cost,flags,reasons
+500103,2026-03-05,TRK-4403,D-103,Day Cab,67.8,263.66,1,Truck 36 mi from pump
+500105,2026-03-09,TRK-4403,D-103,Day Cab,54.8,205.32,1,Static/decreasing POS odometer
+500107,2026-03-13,TRK-4403,D-103,Day Cab,140.9,554.44,1,Low MPG 3.2 vs expected 7.2
+500111,2026-03-23,TRK-4403,D-103,Day Cab,163.8,638.0,1,Low MPG 3.9 vs expected 7.2
+500115,2026-03-31,TRK-4403,D-103,Day Cab,73.5,284.93,1,Static/decreasing POS odometer
+500116,2026-04-01,TRK-4403,D-103,Day Cab,70.4,282.42,1,Truck 39 mi from pump
+500119,2026-04-08,TRK-4403,D-103,Day Cab,49.5,206.79,1,Static/decreasing POS odometer
+500121,2026-04-12,TRK-4403,D-103,Day Cab,92.1,358.62,1,Static/decreasing POS odometer
+500122,2026-04-15,TRK-4403,D-103,Day Cab,35.6,144.87,1,POS odometer inflated by 821 mi
+500123,2026-04-17,TRK-4403,D-103,Day Cab,60.0,217.84,2,Truck 35 mi from pump; Static/decreasing POS odometer
+500125,2026-04-19,TRK-4403,D-103,Day Cab,152.9,613.28,1,Low MPG 3.6 vs expected 7.2
+500128,2026-04-25,TRK-4403,D-103,Day Cab,110.4,474.28,1,Low MPG 3.9 vs expected 7.2
+500258,2026-03-11,TRK-4408,D-108,Sleeper Tractor,143.4,581.63,1,Low MPG 3.3 vs expected 6.8
+500259,2026-03-13,TRK-4408,D-108,Sleeper Tractor,144.7,533.94,1,Low MPG 3.4 vs expected 6.8
+500261,2026-03-16,TRK-4408,D-108,Sleeper Tractor,75.9,279.58,1,Truck 42 mi from pump
+500264,2026-03-20,TRK-4408,D-108,Sleeper Tractor,150.5,590.71,1,Low MPG 3.5 vs expected 6.8
+500266,2026-03-25,TRK-4408,D-108,Sleeper Tractor,112.3,462.11,1,Low MPG 3.6 vs expected 6.8
+500267,2026-03-28,TRK-4408,D-108,Sleeper Tractor,168.7,644.77,1,Low MPG 3.3 vs expected 6.8
+500268,2026-03-29,TRK-4408,D-108,Sleeper Tractor,63.3,250.1,1,Truck 35 mi from pump
+500269,2026-03-31,TRK-4408,D-108,Sleeper Tractor,57.0,224.16,1,POS odometer inflated by 569 mi
+500270,2026-04-03,TRK-4408,D-108,Sleeper Tractor,58.8,231.31,2,Truck 25 mi from pump; Static/decreasing POS odometer
+500271,2026-04-04,TRK-4408,D-108,Sleeper Tractor,58.6,226.48,1,POS odometer inflated by 1006 mi
+500272,2026-04-05,TRK-4408,D-108,Sleeper Tractor,64.4,253.79,1,Static/decreasing POS odometer
+500274,2026-04-09,TRK-4408,D-108,Sleeper Tractor,38.2,147.81,1,Static/decreasing POS odometer
+500275,2026-04-11,TRK-4408,D-108,Sleeper Tractor,151.9,590.89,1,Low MPG 3.5 vs expected 6.8
+500278,2026-04-17,TRK-4408,D-108,Sleeper Tractor,90.0,367.81,1,Truck 37 mi from pump
+500283,2026-04-27,TRK-4408,D-108,Sleeper Tractor,84.0,331.41,1,Truck 21 mi from pump
+500284,2026-04-30,TRK-4408,D-108,Sleeper Tractor,74.8,293.27,1,POS odometer inflated by 737 mi
+500285,2026-05-01,TRK-4408,D-108,Sleeper Tractor,200.1,862.03,2,Low MPG 3.1 vs expected 6.8; Static/decreasing POS odometer
+500286,2026-05-04,TRK-4408,D-108,Sleeper Tractor,171.0,635.78,1,Low MPG 3.2 vs expected 6.8
+500287,2026-05-06,TRK-4408,D-108,Sleeper Tractor,132.0,540.94,1,Low MPG 3.3 vs expected 6.8
+500289,2026-05-08,TRK-4408,D-108,Sleeper Tractor,111.7,459.53,1,Low MPG 3.3 vs expected 6.8
+500446,2026-03-08,TRK-4414,D-114,Sleeper Tractor,60.6,240.29,1,Truck 48 mi from pump
+500454,2026-03-24,TRK-4414,D-114,Sleeper Tractor,178.9,716.49,1,Low MPG 3.5 vs expected 6.8
+500456,2026-03-29,TRK-4414,D-114,Sleeper Tractor,65.9,247.27,1,Truck 36 mi from pump
+500457,2026-03-31,TRK-4414,D-114,Sleeper Tractor,60.0,244.62,1,POS odometer inflated by 716 mi
+500458,2026-04-01,TRK-4414,D-114,Sleeper Tractor,58.2,224.61,1,Static/decreasing POS odometer
+500460,2026-04-04,TRK-4414,D-114,Sleeper Tractor,63.8,264.3,1,Truck 47 mi from pump
+500464,2026-04-11,TRK-4414,D-114,Sleeper Tractor,99.6,375.68,1,Static/decreasing POS odometer
+500466,2026-04-17,TRK-4414,D-114,Sleeper Tractor,88.6,330.47,1,POS odometer inflated by 414 mi
+500467,2026-04-19,TRK-4414,D-114,Sleeper Tractor,43.2,170.81,1,Static/decreasing POS odometer
+500468,2026-04-21,TRK-4414,D-114,Sleeper Tractor,113.8,455.66,1,Low MPG 3.6 vs expected 6.8
+500469,2026-04-24,TRK-4414,D-114,Sleeper Tractor,82.3,308.85,1,Truck 40 mi from pump
+500471,2026-04-27,TRK-4414,D-114,Sleeper Tractor,140.1,550.03,1,Low MPG 3.3 vs expected 6.8
+500475,2026-05-06,TRK-4414,D-114,Sleeper Tractor,109.7,439.79,1,Low MPG 3.2 vs expected 6.8
+500478,2026-05-12,TRK-4414,D-114,Sleeper Tractor,73.7,280.79,1,Truck 29 mi from pump
+500479,2026-05-14,TRK-4414,D-114,Sleeper Tractor,35.6,139.71,1,Truck 38 mi from pump
+500483,2026-05-23,TRK-4414,D-114,Sleeper Tractor,79.6,328.99,1,Static/decreasing POS odometer
